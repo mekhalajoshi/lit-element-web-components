@@ -1,0 +1,16 @@
+{
+  "name": "lit-element-web-components",
+  "version": "1.0.0",
+  "description": "lit-element-web-components",
+  "repository": "https://github.com/mekhalajoshi/lit-element-web-components.git",
+  "main": "lit-element-web-components.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mekhalajoshi@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "latest",
+    "lit-element": "latest"
+  }
+}
